@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Real Love Calcuator</string>
+    <string name="Lovecalculator">LOVE CALCULATOR</string>
+    <string name="DATE">2022</string>
+    <string name="calculatelove">CALCULATE YOUR LOVE</string>
+    <string name="yourlovematch">YOUR LOVE MATCH</string>
+    <string name="try_again"><u>TRY AGAIN</u></string>
+</resources>
